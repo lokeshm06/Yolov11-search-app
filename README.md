@@ -1,4 +1,4 @@
-# YOLOv11 Search App — README
+# YOLOv11 Search App
 
 *Project:* Computer Vision Powered Search Application
 
