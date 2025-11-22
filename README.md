@@ -3,7 +3,7 @@ YOLO-based Object Detection using Streamlit (Local Deployment with Conda + VS Co
 
 ---
 
-## 📘 1. Abstract / Introduction  
+## 📘 1. Abstract
 This project implements a real-time object detection system using the YOLO model trained on the COCO dataset.  
 The application is developed in **Python**, executed in **VS Code**, and deployed locally using **Streamlit**.  
 The project demonstrates how to use YOLO for image/video inference and how to integrate it with a simple UI.
